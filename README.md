@@ -7,3 +7,10 @@ SNM60（Say No to Mouse）是一個開源（Open-source）的鍵盤專案，包�
 # 鍵盤佈局
 
 ![SNM60 Keyboard Layout Ver1.0](https://raw.githubusercontent.com/ZiTe-H/snm60/master/Hardware/Keyboard%20Layout%20Editor/SNM60_Keyboard_Layout_Ver1.0.png)
+
+# 參考資料與相關資源
+
+## 線上工具
+
+1. [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/)
+2. [Keyboard Firmware Builder](https://kbfirmware.com/)
