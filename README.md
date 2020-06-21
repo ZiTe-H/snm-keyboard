@@ -14,7 +14,7 @@ SNM-Keyboard（"Say No to Mouse" Keyboard）是一個開源（Open-source）的�
 
 # SNM60
 ## 鍵盤佈局
-![SNM60 Keyboard Layout Ver1.0](/snm60/hardware/keyboard_layout_editor/snm60_layout_ver1.0.png)
+![SNM60 Keyboard Layout Ver1.0](https://raw.githubusercontent.com/ZiTe-H/snm-keyboard/develop/SNM60/Hardware/keyboard_layout_editor/snm60_layout_ver1.0.png)
 
 # SNM-Thumb
 
