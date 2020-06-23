@@ -16,6 +16,7 @@ SNM60是[SNM-Keyboard](https://github.com/ZiTe-H/snm-keyboard)計劃的主要項
     1. [Minila](http://www.filco.com.tw/index.php/products/index/3)
     2. [HHKB](https://happyhackingkb.com/)
     3. [Poker II](https://www.ikbckeyboard.com/product-page/new-poker-ii-black)
+4. Reset按鍵要在可以比較方便按的地方，方便燒錄。
 
 ## 滑鼠功能
 1. 將相關零件放在原空白鍵位置，主要以大拇指操作。
