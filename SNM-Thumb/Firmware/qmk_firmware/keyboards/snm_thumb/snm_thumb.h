@@ -2,6 +2,7 @@
 #define SNM_THUMB_H
 
 #include "quantum.h"
+#include "analog.h"
 
 #define KEYMAP( \
 	K00, K01, K02, K03, K04, \

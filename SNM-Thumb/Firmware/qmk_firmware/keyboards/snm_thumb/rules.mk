@@ -49,6 +49,9 @@ OPT_DEFS += -DINTERRUPT_CONTROL_ENDPOINT
 # Boot Section Size in *bytes*
 OPT_DEFS += -DBOOTLOADER_SIZE=4096
 
+# Use ADC driver
+SRC += analog.c
+
 # Build Options
 #   comment out to disable the options.
 #
