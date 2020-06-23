@@ -6,7 +6,7 @@ SNM-Keyboard（"Say No to Mouse" Keyboard）是一個開源（Open-source）的�
 
 目前SNM-Keyboard計劃有兩個項目：
 1. [SNM60](/SNM60/)：一把整合了滑鼠功能的60%尺寸鍵盤。
-2. [SNM-Thumb](/snm-thumb/)：一個獨立的滑鼠功能模組。使用者可以把它放在鍵盤空白鍵下方，並透過大拇指來操控它以控制滑鼠。
+2. [SNM-Thumb](/SNM-Thumb/)：一個獨立的滑鼠功能模組。使用者可以把它放在鍵盤空白鍵下方，並透過大拇指來操控它以控制滑鼠。
 
 # 韌體
 本計劃的韌體使用[QMK](#qmk-firmware)。
