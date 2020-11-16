@@ -12,7 +12,7 @@ SNM-Keyboard（"Say No to Mouse" Keyboard）是一個開源（Open-source）的�
 本計劃的韌體使用[QMK](#qmk-firmware)。
 
 # 製作過程與教學
-詳細的製作過程與教學請見[我的部落格](https://zite-h.github.io/pages/serial/s-diysnmkeyboard.html)。
+詳細的製作過程與教學請見[我的部落格](https://ziteh.github.io/pages/serial/s-diysnmkeyboard.html)。
 
 # 參考資料與相關資源
 ## QMK Firmware
