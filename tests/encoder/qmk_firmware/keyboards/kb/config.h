@@ -20,6 +20,12 @@
 #define MATRIX_COL_PINS { D1 }
 #define UNUSED_PINS
 
+/* Encoder */
+#define ENCODERS_PAD_A { B4 }
+#define ENCODERS_PAD_B { B5 }
+//#define ENCODER_DIRECTION_FLIP
+#define ENCODER_RESOLUTION 4
+
 /* COL2ROW or ROW2COL */
 #define DIODE_DIRECTION COL2ROW
 
